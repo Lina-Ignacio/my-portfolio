@@ -55,7 +55,7 @@ export default function Hero() {
                           text-white px-6 py-3 rounded-xl font-medium text-sm transition-all duration-200">
               Contact Me
             </a>
-            <a href="https://drive.google.com/file/d/1EUjPlGBsCQwC17gYIpvV52qX6PgYG5e5/view?usp=sharing"
+            <a href="https://drive.google.com/file/d/1CPh06jSELbjfAcLOeu8b4PATnhs4Zgt8/view?usp=sharing"
                target="_blank" rel="noopener noreferrer"
                className="border border-violet-400/40 hover:bg-violet-500/10 text-violet-300
                           px-6 py-3 rounded-xl font-medium text-sm transition-all duration-200">
@@ -168,7 +168,7 @@ export default function Hero() {
                           transition-all duration-200 hover:-translate-y-0.5">
               Contact Me
             </a>
-            <a href="https://drive.google.com/file/d/1ct_M_xZ6PYJ1p_SujwQyjhVD6e0a3uFJ/view?usp=drive_link"
+            <a href="https://drive.google.com/file/d/1CPh06jSELbjfAcLOeu8b4PATnhs4Zgt8/view?usp=sharing"
                target="_blank" rel="noopener noreferrer"
                className="flex items-center gap-2 border border-violet-400/40
                           hover:bg-violet-500/10 text-violet-300
